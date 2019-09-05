@@ -7,11 +7,16 @@
     {
       "version": "4.2.0-0.nightly-2019-09-04-142146",
       "payload": "registry.svc.ci.openshift.org/ocp/release@sha256:179c6515ec95eba3187120f93f60a102fd34223e57b208906b56bfbf91304f6a"
+    },
+    {
+      "version": "4.2.0-0.nightly-2019-09-04-102339",
+      "payload": "registry.svc.ci.openshift.org/ocp/release@sha256:a1c2c85e773ab8edf54d8b136b003cf99fde10d32ea4fb51fa859daacc6163e5"
     }
   ],
   "edges": [
     [
-      1, 
+      2,
+      1,
       0
     ]
   ]
