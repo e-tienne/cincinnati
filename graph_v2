@@ -1,8 +1,8 @@
 {
   "nodes": [
     {
-      "version": "4.2.0-0.nightly-2019-09-10-181551",
       "payload": "registry.svc.ci.openshift.org/ocp/release@sha256:9e6dc9c8840f2e63307dcbb3c3329566bdd0ad4843411c13e2ec4f30a6548518",
+      "version": "4.2.0-0.nightly-2019-09-10-181551",
       "force": true
     },
     {
