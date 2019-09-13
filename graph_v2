@@ -5,17 +5,17 @@
       "payload": "registry.svc.ci.openshift.org/ocp/release@sha256:9e6dc9c8840f2e63307dcbb3c3329566bdd0ad4843411c13e2ec4f30a6548518"
     },
     {
-      "force": true,
+      "force": True,
       "payload": "registry.svc.ci.openshift.org/ocp/release@sha256:95b59dc18a7a33e395a203ce68dabcc6d88e219f4b1fc1ea529632e5b1cd4bbc",
       "version": "4.2.0-0.nightly-2019-09-10-231328"
     },
     {
-      "force": true,
+      "force": True,
       "payload": "registry.svc.ci.openshift.org/ocp/release@sha256:51a1dbdcef9038c612b99d754ee280f38c2ec4f35064dafbde0204a72ab6ef3b",
       "version": "4.2.0-0.nightly-2019-09-11-012246"
     },
     {
-      "force": true,
+      "force": True,
       "payload": "registry.svc.ci.openshift.org/ocp/release@sha256:e67aa4515b79c227fcb0518a1dcb06b52444ac5c187f00386448f4d904da7246",
       "version": "4.2.0-0.nightly-2019-09-10-235718"
     }
